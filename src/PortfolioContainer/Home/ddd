@@ -1,0 +1,24 @@
+ <div className='profile-details-role'>
+                        <span className='primary-text'>
+                            {" "}
+                            <h1>
+                                {" "}
+                                <Typical
+                                loop={Infinity}
+                                steps={[
+                                    "Ethusiastic Dev 🔴",
+                                    1000,
+                                    "Full Stack Developper 😎",
+                                    1000,
+                                    "Men Stack Developper 💻",
+                                    1000,
+                                    "Cross Platform Dev 🧐",
+                                    1000,
+                                    "React/React Native Dev 📱",
+                                    1000,
+                                ]}
+                                
+                                />
+                            </h1>
+                        </span>
+                    </div>
